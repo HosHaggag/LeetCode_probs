@@ -19,13 +19,6 @@ def func(s , t):
            return
             
 
-    # nums.sort()
-    # for i in range(len(nums) -1):
-    #    if nums[i+1] == nums[i]:
-    #     print('true')
-    #     return             
-    #    else : 
-    #     print('false')
 
 
 func("nums" , "muns")
